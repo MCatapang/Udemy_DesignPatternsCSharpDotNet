@@ -1,5 +1,13 @@
-﻿namespace DesignPatterns
+﻿using System.Diagnostics;
+
+namespace DesignPatterns
 {
+    /* 
+     * The following outlines a good example of the S principle in SOLID.
+     * The Persistence class performs the tasks that would've added way too many responsibilities
+     * to the Journal class.
+    */
+
     public class Journal
     {
         private readonly List<string> entries = new();
@@ -43,6 +51,8 @@
             Console.WriteLine(j);
 
             var p = new Persistence();
+            var filename = @"C:\Users\michaelc\source\repos\Udemy_DesignPatternsCSharpDotNet\1_SOLIDDesignPrinciples\Principle_S\journal.txt";
+            p.SaveToFile(j, filename, true);
         }
     }
 }
