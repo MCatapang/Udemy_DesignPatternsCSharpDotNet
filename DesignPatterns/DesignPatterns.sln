@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principle_S", "Principle_S\Principle_S.csproj", "{44404F15-7FB0-4732-B7F4-BB2FC6C483C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1_SOLIDDesignPrinciples", "1_SOLIDDesignPrinciples\Section1_SOLIDDesignPrinciples.csproj", "{D6528A86-2ECE-4C9F-89CF-F59C98FC65CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{44404F15-7FB0-4732-B7F4-BB2FC6C483C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44404F15-7FB0-4732-B7F4-BB2FC6C483C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44404F15-7FB0-4732-B7F4-BB2FC6C483C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44404F15-7FB0-4732-B7F4-BB2FC6C483C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6528A86-2ECE-4C9F-89CF-F59C98FC65CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6528A86-2ECE-4C9F-89CF-F59C98FC65CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6528A86-2ECE-4C9F-89CF-F59C98FC65CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6528A86-2ECE-4C9F-89CF-F59C98FC65CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F9D0FFE3-66E7-4C45-82AC-C30C87EBCA68}
+		SolutionGuid = {CEBEF8FE-681D-4DE7-B3FE-B19F715009FF}
 	EndGlobalSection
 EndGlobal

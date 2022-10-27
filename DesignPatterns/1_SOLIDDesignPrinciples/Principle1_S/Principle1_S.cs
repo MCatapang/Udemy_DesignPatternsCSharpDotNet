@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace DesignPatterns
+﻿namespace Section1_SOLIDDesignPrinciples.Principle1_S
 {
     /* 
      * The following outlines a good example of the S principle in SOLID.
@@ -38,21 +36,6 @@ namespace DesignPatterns
             {
                 File.WriteAllText(filename, j.ToString());
             }
-        }
-    }
-
-    public class Demo
-    {
-        public static void Main(string[] args)
-        {
-            var j = new Journal();
-            j.AddEntry("I cried today");
-            j.AddEntry("I ate a bug");
-            Console.WriteLine(j);
-
-            var p = new Persistence();
-            var filename = @"C:\Users\michaelc\source\repos\Udemy_DesignPatternsCSharpDotNet\1_SOLIDDesignPrinciples\Principle_S\journal.txt";
-            p.SaveToFile(j, filename, true);
         }
     }
 }
