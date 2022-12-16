@@ -1,5 +1,6 @@
 ﻿using Section1_SOLIDDesignPrinciples.Principle1_S;
 using Section1_SOLIDDesignPrinciples.Principle2_O;
+using Section1_SOLIDDesignPrinciples.Principle3_L;
 
 namespace Section1_SOLIDDesignPrinciples
 {
@@ -7,7 +8,7 @@ namespace Section1_SOLIDDesignPrinciples
     {
         public static void Main(string[] args)
         {
-            Call_S();
+            Call_D();
         }
 
         public static void Call_S()
@@ -35,6 +36,29 @@ namespace Section1_SOLIDDesignPrinciples
             {
                 Console.WriteLine($" - {p.Name} is green");
             }
+        }
+
+        public static void Call_L()
+        {
+            static int Area(Rectangle r) => r.Width * r.Height;
+
+            Rectangle rc = new Rectangle(2,3);
+            Console.WriteLine($"{rc} has area of {Area(rc)}");
+
+            Rectangle sq = new Square();
+            sq.Width = 4;
+            Console.WriteLine($"{sq} has area of {Area(sq)}");
+        }
+
+        public static void Call_I()
+        {
+            // Not needed
+        }
+
+        public static void Call_D()
+        {
+            Principle5_D.BadImplementation.Research.Execute();
+            Principle5_D.GoodImplementation.Research.Execute();
         }
     }
 }
