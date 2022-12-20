@@ -13,7 +13,7 @@ namespace Section2_Builder
         public HtmlElement(string name, string text)
         {
             Name = name ?? throw new ArgumentNullException(paramName: nameof(name));
-            Text = text ?? throw new ArgumentNullException(paramName: nameof(name));
+            Text = text ?? throw new ArgumentNullException(paramName: nameof(text));
         }
 
         private string ToStringImpl(int indent)
