@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\bin\Debug\net6.0\Section2_Builder.exe
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\bin\Debug\net6.0\Section2_Builder.deps.json
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\bin\Debug\net6.0\Section2_Builder.runtimeconfig.json
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\bin\Debug\net6.0\Section2_Builder.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\bin\Debug\net6.0\Section2_Builder.pdb
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\refint\Section2_Builder.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.pdb
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\Section2_Builder.genruntimeconfig.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\Section2_Builder\obj\Debug\net6.0\ref\Section2_Builder.dll

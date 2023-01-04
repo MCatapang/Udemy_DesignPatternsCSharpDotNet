@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\bin\Debug\net6.0\Section1_SOLIDDesignPrinciples.exe
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\bin\Debug\net6.0\Section1_SOLIDDesignPrinciples.deps.json
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\bin\Debug\net6.0\Section1_SOLIDDesignPrinciples.runtimeconfig.json
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\bin\Debug\net6.0\Section1_SOLIDDesignPrinciples.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\bin\Debug\net6.0\Section1_SOLIDDesignPrinciples.pdb
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\refint\Section1_SOLIDDesignPrinciples.dll
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.pdb
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\Section1_SOLIDDesignPrinciples.genruntimeconfig.cache
+C:\Users\Michael\source\repos\Udemy\DesignPatterns\DesignPatterns\1_SOLIDDesignPrinciples\obj\Debug\net6.0\ref\Section1_SOLIDDesignPrinciples.dll
